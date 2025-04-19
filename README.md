@@ -58,7 +58,7 @@ The plot below shows the accuracy trend across all 10 randomized samples. Each p
 
 ## ✅ Key Observations
 
-- Highest accuracy achieved: **97.85%**
+- Highest accuracy achieved: **96.73%**
 - Most successful kernel: `'rbf'`
 - `'auto'` gamma consistently outperformed `'scale'`
 - Ideal `C` values ranged between **1.6 to 100**
